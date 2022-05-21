@@ -1,4 +1,4 @@
-Hi all to the solidity code for crowd funding for a cause-
+Hi all and welcome to my solidity project for crowd funding for a cause-
 points to remember-
  1. there should be more than 2 donars for raising funds
  2. cause will be choosen by the donars only.
